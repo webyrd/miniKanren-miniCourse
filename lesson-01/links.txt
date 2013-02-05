@@ -1,0 +1,24 @@
+Will's GitHub:
+https://github.com/webyrd
+
+Racket:
+http://racket-lang.org/
+
+Petite-Chez-Scheme
+http://www.scheme.com/petitechezscheme.html
+http://www.scheme.com/download/
+
+miniKanren SourceForge repository (legacy code):
+http://kanren.sourceforge.net/
+
+The Reasoned Schemer
+http://mitpress.mit.edu/books/reasoned-schemer
+
+Will Byrd's dissertation on miniKanren
+http://pqdtopen.proquest.com/#abstract?dispub=3380156
+
+Music:
+Underclocked (underunderclocked mix)
+by Eric Skiff
+http://ericskiff.com/music/
+Creative Commons Attribution License
